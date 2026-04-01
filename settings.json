@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aurora-smp.aternos.me",
-    "port": 61099,
+    "ip": "playomninetwork.aternos.me",
+    "port": 18866,
     "version": "",
     "try-creative": false
   },
